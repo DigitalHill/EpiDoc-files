@@ -8,7 +8,7 @@ There are EpiDoc-files for the following sources:
 - Aelian, *Varia Historia* 2.9
 - Aelian, *Varia Historia* 7.14
 - Aristophanes, *Wasps* 281
-- Aristotle, *Polics* 1284a38
+- Aristotle, *Politics* 1284a38
 - Aristotle, *Rhetorics*, I, 7.34
 - Aristotle, *Rhetorics*, III, 7.34
 - Athenaeus, III.99d
