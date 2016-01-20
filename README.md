@@ -16,7 +16,7 @@ There are EpiDoc-files for the following sources:
 - Athenaeus, XII.533e
 - Athenaeus, XIII.572f
 - Athenaeus, XIII.603e
-- Corpus Inscriptiones Atticarum (CIA) I.177
+- Corpus Inscriptionum Atticarum (CIA) I.177
 - CIA I.188
 - CIA I.234
 - CIA I.237
