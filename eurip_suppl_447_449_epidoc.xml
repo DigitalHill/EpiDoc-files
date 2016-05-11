@@ -4,30 +4,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Peloponesian war...</title>
-				<respStmt>
-					<persName>Monica Berti</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Giuseppe Celano</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Gregory Crane</persName>
-					<resp></resp>
-				</respStmt>
+				<title>Digital Hill</title>
 				<respStmt>
 					<persName>Marcel Mernitz</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Charlotte Schubert</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Simona Stoyanova</persName>
-					<resp>EpiDoc consultant</resp>
+					<resp>Editor</resp>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
@@ -45,10 +25,10 @@
 			<sourceDesc>
 				<bibl>
 					<editor>Hill</editor>
-					<title>Sources...</title> <!-- URN of Hill -->
-					<publisher></publisher>
-					<pubPlace></pubPlace>
-					<date></date>
+					<title ref="http://www.archive.org/stream/sourcesforgreekh00hilluoft#page/142/mode/1up">Sources for Greek History between the Persian and Peloponnesian Wars</title> 
+					<publisher>Oxford Clarendon Press</publisher>
+					<pubPlace>Oxford</pubPlace>
+					<date>1897</date>
 					<biblScope unit="pp">146</biblScope>
 				</bibl>
 				<bibl>
@@ -64,8 +44,8 @@
 		<encodingDesc>
 			<p>The following text is encoded in accordance with EpiDoc standards and with the
 				CTS/CITE Architecture.</p>
-<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0006/tlg008/tlg0006.tlg008.perseus-grc1.xml -->
-<!-- The Number of this passage in Hill is 267 on page 146 -->
+			<p>The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0006/tlg008/tlg0006.tlg008.perseus-grc1.xml</p> 
+			<p>The Number of this passage in Hill is 267 on page 146.</p> 
 		</encodingDesc>
 	</teiHeader>
 <text xml:lang="greek">

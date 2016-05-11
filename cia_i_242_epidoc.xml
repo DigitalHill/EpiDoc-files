@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- This inscription is taken from chapter 2 in Hill from the pages 73f. It is pretty mutilated, the first three columns are missing. Hill doesn't specify where the first three lines end or if there is free space between the first text and the list.  -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Digital Hill</title>
+                <respStmt>
+                    <persName>Marcel Mernitz</persName>
+                    <resp>Editor</resp>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority></authority>
+                <authority>University of Leipzig</authority>
+                <idno type="filename">cia_i_242_epidoc.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
+                        under a Creative Commons Attribution-ShareAlike International 4.0
+                        License</licence>
+                </availability>
+                <date>2015</date>
+                <publisher>University of Leipzig</publisher>
+                <pubPlace>Germany</pubPlace>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    
+                    <editor>Hill</editor>
+                    <title ref="http://www.archive.org/stream/sourcesforgreekh00hilluoft#page/142/mode/1up">Sources for Greek History between the Persian and Peloponnesian Wars</title> 
+                    <publisher>Oxford Clarendon Press</publisher>
+                    <pubPlace>Oxford</pubPlace>
+                    <date>1897</date>
+                    <biblScope unit="pp">141, 142</biblScope>
+                </bibl>
+                <bibl>
+                    <title>Corpus Inscriptionum Atticarum</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date></date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+            <p>This inscription is taken from chapter 2 in Hill from the pages 73f, in chapter 3 it is quoted without text in number 245 on page 141 and 246 on page 142.. It is pretty mutilated, the first three columns are missing. Hill doesn't specify where the first three lines end or if there is free space between the first text and the list.</p> 
+        </encodingDesc>
     </teiHeader>
     <text xml:lang="grc">
         <body>	

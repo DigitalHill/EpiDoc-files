@@ -64,8 +64,8 @@
         <encodingDesc>
             <p>The following text is encoded in accordance with EpiDoc standards and with the
                 CTS/CITE Architecture.</p>
-<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml -->
-<!-- The number of this passage in Hill is 146 of chapter 6 on page 282 -->
+            <p>The following text is taken from https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0007/tlg012/tlg0007.tlg012.perseus-grc2.xml</p> 
+            <p>The number of this passage in Hill is 146 of chapter 6 on page 282.</p> 
         </encodingDesc>
     </teiHeader>
 <text n="Per.">

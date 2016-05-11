@@ -4,30 +4,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Peloponesian war...</title>
-				<respStmt>
-					<persName>Monica Berti</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Giuseppe Celano</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Gregory Crane</persName>
-					<resp></resp>
-				</respStmt>
+				<title>Digital Hill</title>
 				<respStmt>
 					<persName>Marcel Mernitz</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Charlotte Schubert</persName>
-					<resp></resp>
-				</respStmt>
-				<respStmt>
-					<persName>Simona Stoyanova</persName>
-					<resp>EpiDoc consultant</resp>
+					<resp>Editor</resp>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
@@ -45,10 +25,10 @@
 			<sourceDesc>
 				<bibl>
 					<editor>Hill</editor>
-					<title>Sources...</title> <!-- URN of Hill -->
-					<publisher></publisher>
-					<pubPlace></pubPlace>
-					<date></date>
+					<title ref="http://www.archive.org/stream/sourcesforgreekh00hilluoft#page/142/mode/1up">Sources for Greek History between the Persian and Peloponnesian Wars</title> 
+					<publisher>Oxford Clarendon Press</publisher>
+					<pubPlace>Oxford</pubPlace>
+					<date>1897</date>
 					<biblScope unit="pp">146</biblScope>
 				</bibl>
 				<bibl>
@@ -64,8 +44,8 @@
 		<encodingDesc>
 			<p>The following text is encoded in accordance with EpiDoc standards and with the
 				CTS/CITE Architecture.</p>
-<!-- The following text is taken from the Perseus database: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D162%3Asection%3D1 and http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D162%3Asection%3D2 -->
-<!-- The number of this passage in Hill is 267 on page 146 but Hill doesn't publish any text -->
+			<p>The following text is taken from the Perseus database: http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D162%3Asection%3D1 and http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D162%3Asection%3D2</p> 
+			<p>The number of this passage in Hill is 267 on page 146 but Hill doesn't publish any text.</p>
 		</encodingDesc>
 	</teiHeader>
 <text xml:lang="grc">

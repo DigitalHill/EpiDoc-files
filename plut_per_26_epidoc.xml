@@ -4,35 +4,15 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Peloponesian war...</title>
-                <respStmt>
-                    <persName>Monica Berti</persName>
-                    <resp></resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Giuseppe Celano</persName>
-                    <resp></resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Gregory Crane</persName>
-                    <resp></resp>
-                </respStmt>
+                <title>Digital Hill</title>
                 <respStmt>
                     <persName>Marcel Mernitz</persName>
-                    <resp></resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Charlotte Schubert</persName>
-                    <resp></resp>
-                </respStmt>
-                <respStmt>
-                    <persName>Simona Stoyanova</persName>
-                    <resp>EpiDoc consultant</resp>
+                    <resp>Editor</resp>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Leipzig</authority>
-                <idno type="filename">plut_per_8_epidoc.xml</idno>
+                <idno type="filename">plut_per_26_epidoc.xml</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> Available
                         under a Creative Commons Attribution-ShareAlike International 4.0
@@ -45,10 +25,10 @@
             <sourceDesc>
                 <bibl>
                     <editor>Hill</editor>
-                    <title>Sources...</title> <!-- http://www.archive.org/stream/sourcesforgreekh00hilluoft#page/138/mode/2up -->
-                    <publisher></publisher>
-                    <pubPlace></pubPlace>
-                    <date></date>
+                    <title ref="http://www.archive.org/stream/sourcesforgreekh00hilluoft#page/142/mode/1up">Sources for Greek History between the Persian and Peloponnesian Wars</title> 
+                    <publisher>Oxford Clarendon Press</publisher>
+                    <pubPlace>Oxford</pubPlace>
+                    <date>1897</date>
                     <biblScope unit="pp">138f</biblScope>
                 </bibl>
                 <bibl>
@@ -64,8 +44,8 @@
         <encodingDesc>
             <p>The following text is encoded in accordance with EpiDoc standards and with the
                 CTS/CITE Architecture.</p>
-<!-- The following text is taken from https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0007/tlg012/tlg0007.tlg012.perseus-grc1.xml but one comma has been removed in section 2 -->
-<!-- The number of this passage in Hill is 239 on page 138f -->
+            <p>The following text is taken from https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0007/tlg012/tlg0007.tlg012.perseus-grc2.xml but one comma has been removed in section 2</p> 
+            <p>The number of this passage in Hill is 239 on page 138f.</p> 
         </encodingDesc>
     </teiHeader>
 
