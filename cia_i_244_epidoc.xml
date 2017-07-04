@@ -123,7 +123,7 @@
                     <lb n="69"/><cb n="a"/><num value="400"><supplied reason="lost">Η</supplied>ΗΗΗ</num> <cb n="b"/>Κεῖοι <cb n="c"/><num value="100">Η</num> <cb n="d"/>Σαναῖοι
                     <lb n="70"/><cb n="a"/><num value="300"><supplied reason="lost">ΗΗ</supplied>Η</num> <cb n="b"/>Τένιοι <cb n="c"/><num value="100">Η</num> <cb n="d"/>Σίγγιοι
                     <lb n="71"/><cb n="a"/><measure type="currency" unit="drachma" quantity="666.67"><supplied reason="lost">𐅅</supplied>Η𐅄Δ𐅃<g type="drachma">𐅂</g>ΙΙΙΙ</measure> <cb n="b"/>Νάχσι<supplied reason="lost">οι</supplied> <cb n="c"/>Πόλες <!-- Here an "ι" seems to be missing --> αὐταὶ
-                    <lb n="72"/><cb n="a"/><gap reason="lost" extent="unknown" unit="chars"/> <cb n="b"/>μυκόνιοι <cb n="c"/>ταχσάμεναι
+                    <lb n="72"/><cb n="a"/><gap reason="lost" extent="unknown" unit="chars"/> <cb n="b"/>Μυκόνιοι <cb n="c"/>ταχσάμεναι
                     <lb n="73"/><cb n="a"/><num value="600"><supplied reason="lost">𐅅</supplied>Η</num> <cb n="b"/>Ἄνδριοι <cb n="c"/><num value="50">𐅄</num> <cb n="d"/>Γαλαῖοι
                     <lb n="74"/><cb n="a"/><num value="300"><supplied reason="lost">Η</supplied>ΗΗ</num> <cb n="b"/>Σίφνιοι <cb n="c"/><num value="25">ΔΔ𐅃</num> <cb n="d"/>Σαρταῖοι
                     <lb n="75"/><cb n="a"/><num value="25"><supplied reason="unknown">Δ</supplied>Δ𐅃</num> <cb n="b"/>Σύριοι <cb n="c"/><num value="100">Η</num> <cb n="d"/>Ἀμόργιοι
